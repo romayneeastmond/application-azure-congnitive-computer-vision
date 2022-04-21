@@ -1,0 +1,177 @@
+[
+  {
+    "Id": "7cc1e391-f2ee-4e7d-bee2-1009068b79c8",
+    "FirstName": "Romayne",
+    "LastName": "Eastmond",
+    "FullName": "Romayne Eastmond",
+    "Url": "https://github.com/romayneeastmond/",
+    "ImageUrl": "https://github.com/romayneeastmond/fake_image_path.png",
+    "DisplayTitle": "Senior Developer",
+    "ImageStatistics": {
+      "Id": "21ce999d-ac83-4a25-87a7-d8bd0adaca0f",
+      "PersonId": "7cc1e391-f2ee-4e7d-bee2-1009068b79c7",
+      "ImageAccentColor": "53596F",
+      "ImageDominantColorBackground": "53596F",
+      "ImageDominantColorForeground": "53596F",
+      "ImageDominantColors": "White",
+      "Captions": [
+        {
+          "Name": "a man wearing glasses",
+          "Description": "",
+          "Confidence": 0.5429129600524902
+        }
+      ],
+      "Categories": [
+        {
+          "Name": "people_",
+          "Description": "",
+          "Confidence": 0.34765625
+        },
+        {
+          "Name": "people_portrait",
+          "Description": "",
+          "Confidence": 0.65234375
+        }
+      ],
+      "Tags": [
+        {
+          "Name": "human face",
+          "Description": "",
+          "Confidence": 0.9962856769561768
+        },
+        {
+          "Name": "person",
+          "Description": "",
+          "Confidence": 0.9904642105102539
+        },
+        {
+          "Name": "necktie",
+          "Description": "",
+          "Confidence": 0.9815733432769775
+        },
+        {
+          "Name": "clothing",
+          "Description": "",
+          "Confidence": 0.9736372232437134
+        },
+        {
+          "Name": "tie",
+          "Description": "",
+          "Confidence": 0.9625458121299744
+        },
+        {
+          "Name": "forehead",
+          "Description": "",
+          "Confidence": 0.9620723128318787
+        },
+        {
+          "Name": "chin",
+          "Description": "",
+          "Confidence": 0.9512608051300049
+        },
+        {
+          "Name": "formal wear",
+          "Description": "",
+          "Confidence": 0.9487650990486145
+        },
+        {
+          "Name": "collar",
+          "Description": "",
+          "Confidence": 0.9436408877372742
+        },
+        {
+          "Name": "gentleman",
+          "Description": "",
+          "Confidence": 0.9368568658828735
+        },
+        {
+          "Name": "dress shirt",
+          "Description": "",
+          "Confidence": 0.9338507056236267
+        },
+        {
+          "Name": "man",
+          "Description": "",
+          "Confidence": 0.9329708814620972
+        },
+        {
+          "Name": "portrait",
+          "Description": "",
+          "Confidence": 0.919208288192749
+        },
+        {
+          "Name": "headshot",
+          "Description": "",
+          "Confidence": 0.9115564227104187
+        },
+        {
+          "Name": "white-collar worker",
+          "Description": "",
+          "Confidence": 0.9093108177185059
+        },
+        {
+          "Name": "wearing",
+          "Description": "",
+          "Confidence": 0.9090875387191772
+        },
+        {
+          "Name": "blazer",
+          "Description": "",
+          "Confidence": 0.8945214152336121
+        },
+        {
+          "Name": "eyewear",
+          "Description": "",
+          "Confidence": 0.8911309242248535
+        },
+        {
+          "Name": "eyebrow",
+          "Description": "",
+          "Confidence": 0.8825696110725403
+        },
+        {
+          "Name": "businessperson",
+          "Description": "",
+          "Confidence": 0.8813163042068481
+        },
+        {
+          "Name": "jaw",
+          "Description": "",
+          "Confidence": 0.8542317748069763
+        },
+        {
+          "Name": "smile",
+          "Description": "",
+          "Confidence": 0.848666787147522
+        },
+        {
+          "Name": "male person",
+          "Description": "",
+          "Confidence": 0.8407005071640015
+        },
+        {
+          "Name": "glasses",
+          "Description": "",
+          "Confidence": 0.6485045552253723
+        },
+        {
+          "Name": "suit",
+          "Description": "",
+          "Confidence": 0.5678048729896545
+        },
+        {
+          "Name": "shirt",
+          "Description": "",
+          "Confidence": 0.5351783037185669
+        }
+      ],
+      "Faces": [
+        {
+          "Name": "Male",
+          "Description": "37",
+          "Confidence": 0.0
+        }
+      ]
+    }
+  }
+]
